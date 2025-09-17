@@ -91,16 +91,16 @@ h1 {
     font-family: cursive;
     font-size: large;
     color: #ea2684;
-    ;
     position: relative;
     top: -48px;
+    font-size: 148%;
 }
 
 
 #l2 {
     font-family: cursive;
     color: #ea2684;
-    font-size: 18px;
+    font-size: 21px;
     font-style: oblique;
     position: relative;
     top: -27px;
